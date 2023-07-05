@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Bowie-owo
+- 👋 Hi, I’m @Bowie-owo currently a highschool graduate student in Malaysia
 - 👀 I’m interested in Computer science and data informatic
-- 🌱 I’m currently learning Python, Java and CSS
+- 🌱 I’m currently learning Python, Java and CSS (looking for someone who can teach these)
 - 📫 How to reach me : bowiechong07@gmail.com
 
 <!---
