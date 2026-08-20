@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm currently studying Information Communication and Technology with a focus on Data Informatics at Asia Pacific University. I am looking for September 2025 internship.
+Hello, I'm currently studying Information Communication and Technology with a focus on Data Informatics at Asia Pacific University. I am looking for January 2027 internship.
 
 
 ## 🌐 Socials:
